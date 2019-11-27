@@ -9,8 +9,11 @@ Here is a puzzle that challenges your resillience and strength. It is a
   ________________________/ O  \___/
  <_/_\_/_\_/_\_/_\_/_\_/_______/   \
 
-~~~~~
+
 ```
+
+Best regards,
+Junle Qian
 
 
 
